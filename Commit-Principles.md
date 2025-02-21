@@ -1,11 +1,5 @@
 # Commit Principles
 
-Structure of a commit message:
-
-```
-
-```
-
 ```
 - feat: new features
 - fix: bug fixes
